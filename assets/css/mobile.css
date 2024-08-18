@@ -1,0 +1,36 @@
+.header {
+	background-size: 250% 100%;
+}
+
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner button {
+	font-size: 17px;
+}
+
+
+
+.feature,
+.tutorial,
+.feedback,
+.contact {
+	padding: 50px 30px;
+}
+
+.feature-item {
+	margin: 20px;
+}
+
+
+
+.about {
+	padding: 50px 20px;
+} 
+
+
+.carousel-item p {
+	padding: 30px 30px 10px 30px;
+}
